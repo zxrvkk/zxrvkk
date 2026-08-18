@@ -68,7 +68,7 @@ My engineering interests include:
 ### Backend & Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,postgres,mongodb,redis&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mongodb&theme=dark" />
 </p>
 
 ### Cloud, DevOps & Tooling
