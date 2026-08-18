@@ -1,7 +1,6 @@
-````markdown
 <div align="center">
 
-[![Capsule Render](https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:4f46e5,100:7c3aed&height=220&section=header&text=ZERAK%20ZICHANTHUNG%20ZAMAN&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20%7C%20Software%20Engineering%20%7C%20AI%20%2F%20ML%20%7C%20Quantum%20Computing&descAlignY=58&descSize=15&animation=fadeIn)](https://github.com/)
+[![Capsule Render](https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:4f46e5,100:7c3aed&height=220&section=header&text=ZERAK%20ZICHANTHUNG%20ZAMAN&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20%7C%20Software%20Engineering%20%7C%20AI%20%2F%20ML%20%7C%20Quantum%20Computing&descAlignY=58&descSize=15&animation=fadeIn)](https://github.com/zxrvkk)
 
 <a href="https://readme-typing-svg.demolab.com">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=700&lines=Computer+Science+%26+Engineering+Student;Aspiring+Software+Engineer;AI+%2F+ML+Enthusiast;Exploring+Quantum+Computing;Building+with+Python+%26+C;Learning+Systems%2C+Algorithms+%26+Data" alt="Typing SVG" />
@@ -17,16 +16,15 @@
 <br>
 
 ![Location](https://img.shields.io/badge/India-4F46E5?style=flat-square&logo=googlemaps&logoColor=white)
-[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=flat-square&logo=vercel&logoColor=white)](https://github.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-4F46E5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![Email](https://img.shields.io/badge/Email-6366F1?style=flat-square&logo=gmail&logoColor=white)](mailto:)
-[![GitHub](https://img.shields.io/badge/GitHub-312E81?style=flat-square&logo=github&logoColor=white)](https://github.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4F46E5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zerak-z-2807422b4/)
+[![Email](https://img.shields.io/badge/Email-6366F1?style=flat-square&logo=gmail&logoColor=white)](mailto:zerakps@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-312E81?style=flat-square&logo=github&logoColor=white)](https://github.com/zxrvkk)
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=zerakzaman&style=flat-square&color=7C3AED)
-![Followers](https://img.shields.io/github/followers/zerakzaman?style=flat-square&color=4F46E5)
-![Stars](https://img.shields.io/github/stars/zerakzaman?style=flat-square&color=6366F1)
+![Profile Views](https://komarev.com/ghpvc/?username=zxrvkk&style=flat-square&color=7C3AED)
+![Followers](https://img.shields.io/github/followers/zxrvkk?style=flat-square&color=4F46E5)
+![Stars](https://img.shields.io/github/stars/zxrvkk?style=flat-square&color=6366F1)
 
 </div>
 
@@ -112,7 +110,7 @@ A structured collection of experiments focused on developing practical foundatio
 | **Performance** | Vectorised numerical workflows and reproducible experiments |
 | **Security** | Dependency hygiene · environment isolation · secret-free configuration |
 | **Impact** | Building a foundation for production-oriented AI/ML engineering |
-| **Repository** | [GitHub](https://github.com/) |
+| **Repository** | [GitHub](https://github.com/zxrvkk) |
 
 **Engineering Focus**
 
@@ -138,7 +136,7 @@ A growing engineering workspace for implementing **algorithms, data structures a
 | **Performance** | Complexity-aware implementation and benchmarking |
 | **Security** | Memory safety awareness · input validation · defensive programming |
 | **Impact** | Developing strong computer science fundamentals |
-| **Repository** | [GitHub](https://github.com/) |
+| **Repository** | [GitHub](https://github.com/zxrvkk) |
 
 **Engineering Focus**
 
@@ -165,7 +163,7 @@ A collection of product-oriented applications designed to develop practical expe
 | **Performance** | API efficiency · caching · responsive interfaces |
 | **Security** | Authentication · authorisation · validation · secure configuration |
 | **Impact** | Developing end-to-end product engineering ability |
-| **Repository** | [GitHub](https://github.com/) |
+| **Repository** | [GitHub](https://github.com/zxrvkk) |
 
 **Engineering Focus**
 
@@ -192,7 +190,7 @@ An evolving research-oriented workspace exploring the computational foundations 
 | **Performance** | Circuit complexity · simulation constraints · algorithmic efficiency |
 | **Security** | Quantum cryptography concepts and secure computation |
 | **Impact** | Connecting computer science, mathematics and physics |
-| **Repository** | [GitHub](https://github.com/) |
+| **Repository** | [GitHub](https://github.com/zxrvkk) |
 
 **Engineering Focus**
 
@@ -270,10 +268,10 @@ Building a rigorous foundation in computer science and engineering through cours
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-111827?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-111827?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46)](https://www.geeksforgeeks.org/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-111827?style=for-the-badge&logo=hackerrank&logoColor=00EA64)](https://www.hackerrank.com/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-111827?style=for-the-badge&logo=codechef&logoColor=5B4638)](https://www.codechef.com/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Coming%20Soon-111827?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Coming%20Soon-111827?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46)](https://www.geeksforgeeks.org/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Coming%20Soon-111827?style=for-the-badge&logo=hackerrank&logoColor=00EA64)](https://www.hackerrank.com/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-Coming%20Soon-111827?style=for-the-badge&logo=codechef&logoColor=5B4638)](https://www.codechef.com/)
 
 </div>
 
@@ -283,15 +281,15 @@ Building a rigorous foundation in computer science and engineering through cours
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=zerakzaman&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=6366F1&text_color=C4B5FD&ring_color=7C3AED" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=zxrvkk&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=6366F1&text_color=C4B5FD&ring_color=7C3AED" />
 
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=zerakzaman&hide_border=true&background=0D1117&ring=7C3AED&fire=8B5CF6&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=94A3B8" />
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=zxrvkk&hide_border=true&background=0D1117&ring=7C3AED&fire=8B5CF6&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=94A3B8" />
 
 </div>
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zerakzaman&layout=compact&langs_count=10&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C4B5FD" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zxrvkk&layout=compact&langs_count=10&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C4B5FD" />
 
 </div>
 
@@ -301,7 +299,7 @@ Building a rigorous foundation in computer science and engineering through cours
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=zerakzaman&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=zxrvkk&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
 
 </div>
 
@@ -311,7 +309,7 @@ Building a rigorous foundation in computer science and engineering through cours
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zerakzaman&bg_color=0D1117&color=C4B5FD&line=7C3AED&point=8B5CF6&area=true&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zxrvkk&bg_color=0D1117&color=C4B5FD&line=7C3AED&point=8B5CF6&area=true&hide_border=true" width="100%" />
 
 </div>
 
@@ -321,7 +319,7 @@ Building a rigorous foundation in computer science and engineering through cours
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/zerakzaman/zerakzaman/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+<img src="https://raw.githubusercontent.com/zxrvkk/zxrvkk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 
 </div>
 
@@ -361,30 +359,3 @@ Open To:
   - Open Source Contributions
   - Hackathons
   - Technical Communities
-````
-
----
-
-## Connect
-
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/Gmail-7C3AED?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-312E81?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge\&logo=vercel\&logoColor=white)](https://github.com/)
-
-<br>
-
-**Building systems. Learning deeply. Engineering for what comes next.**
-
-</div>
-
----
-
-<div align="center">
-
-[![Capsule Render](https://capsule-render.vercel.app/api?type=waving\&color=0:7c3aed,50:4f46e5,100:312e81\&height=120\&section=footer)](https://github.com/)
-
-</div>
-```
