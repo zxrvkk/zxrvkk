@@ -246,24 +246,6 @@ Building a rigorous foundation in computer science and engineering through cours
 
 ## Certifications
 
-### AWS
-
-![AWS](https://img.shields.io/badge/AWS-Cloud%20Foundations-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-### Oracle
-
-![Oracle](https://img.shields.io/badge/Oracle-Technology-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-### NPTEL
-
-![NPTEL](https://img.shields.io/badge/NPTEL-Engineering-4F46E5?style=for-the-badge&logo=academia&logoColor=white)
-
-### Cisco
-
-![Cisco](https://img.shields.io/badge/Cisco-Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-
----
-
 ## Coding Profiles
 
 <div align="center">
