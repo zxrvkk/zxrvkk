@@ -3,7 +3,7 @@
 [![Capsule Render](https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:4f46e5,100:7c3aed&height=220&section=header&text=ZERAK%20ZICHANTHUNG%20ZAMAN&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20%7C%20Software%20Engineering%20%7C%20AI%20%2F%20ML%20%7C%20Quantum%20Computing&descAlignY=58&descSize=15&animation=fadeIn)](https://github.com/zxrvkk)
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=700&lines=Computer+Science+%26+Engineering+Student;Aspiring+Software+Engineer;AI+%2F+ML+Enthusiast;Exploring+Quantum+Computing;Building+with+Python+%26+C;Learning+Systems%2C+Algorithms+%26+Data" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=700&lines=Computer+Science+%26+Engineering+Student;Aspiring+Data+Scientist;AI+%2F+ML+Enthusiast;Exploring+Quantum+Computing;Building+with+Python+%26+C;Learning+Systems%2C+Algorithms+%26+Data" alt="Typing SVG" />
 </a>
 
 <br>
