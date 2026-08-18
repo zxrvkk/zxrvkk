@@ -273,23 +273,24 @@ Building a rigorous foundation in computer science and engineering through cours
 
 ---
 
-## Contribution Activity
+## `0x0B` CONTRIBUTION ACTIVITY
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zxrvkk&bg_color=0D1117&color=C4B5FD&line=7C3AED&point=8B5CF6&area=true&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&bg_color=0d0d0d&color=9D4EDD&line=8A2BE2&point=ffffff&hide_border=true" width="95%" />
 
 </div>
 
 ---
 
-## Contribution Snake
+## `0x0C` CONTRIBUTION SNAKE
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/zxrvkk/zxrvkk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+<img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg" width="95%" />
 
 </div>
+
 
 ---
 
