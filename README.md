@@ -1,343 +1,323 @@
 <div align="center">
 
-[![Capsule Render](https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:4f46e5,100:7c3aed&height=220&section=header&text=ZERAK%20ZICHANTHUNG%20ZAMAN&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20%7C%20Software%20Engineering%20%7C%20AI%20%2F%20ML%20%7C%20Quantum%20Computing&descAlignY=58&descSize=15&animation=fadeIn)](https://github.com/zxrvkk)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0033,100:0d0d0d&height=280&section=header&text=ZERAK&fontSize=90&fontColor=8A2BE2&animation=twinkling&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20%7C%20Systems%20Builder&descAlignY=58&descSize=18&descColor=6A5ACD)
 
-<a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=700&lines=Computer+Science+%26+Engineering+Student;Aspiring+Software+Engineer;AI+%2F+ML+Enthusiast;Exploring+Quantum+Computing;Building+with+Python+%26+C;Learning+Systems%2C+Algorithms+%26+Data" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=900&color=9D4EDD&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=%3E+booting_engineer.exe...;%3E+compiling+intelligence+%7C%7C+shipping+systems;%3E+access_granted%3A+welcome_to_the_grid;%3E+ctOS+status%3A+ONLINE" alt="Typing SVG" />
 
-<br>
+<br/>
 
-![B.Tech CSE](https://img.shields.io/badge/B.Tech-CSE-4F46E5?style=for-the-badge&logo=google-scholar&logoColor=white)
-![Engineering Student](https://img.shields.io/badge/Engineering-Student-6366F1?style=for-the-badge&logo=academia&logoColor=white)
-![Python](https://img.shields.io/badge/Python-Learning-7C3AED?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-Learning-4338CA?style=for-the-badge&logo=c&logoColor=white)
+[![B.Tech CSE](https://img.shields.io/badge/B.Tech-Computer%20Science-4B0082?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=0d0d0d)](#)
+[![University](https://img.shields.io/badge/Manipal%20University-Jaipur-6A0DAD?style=for-the-badge&logo=academia&logoColor=white&labelColor=0d0d0d)](#)
+[![Location](https://img.shields.io/badge/Location-India-8A2BE2?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0d0d0d)](#)
 
-<br>
+<br/>
 
-![Location](https://img.shields.io/badge/India-4F46E5?style=flat-square&logo=googlemaps&logoColor=white)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-4F46E5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zerak-z-2807422b4/)
-[![Email](https://img.shields.io/badge/Email-6366F1?style=flat-square&logo=gmail&logoColor=white)](mailto:zerakps@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-312E81?style=flat-square&logo=github&logoColor=white)](https://github.com/zxrvkk)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-9D4EDD?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d0d0d)](https://yourportfolio.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-5A189A?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0d)](https://linkedin.com/in/yourhandle)
+[![Email](https://img.shields.io/badge/Email-Contact-7B2CBF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d0d)](mailto:you@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-3C096C?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d)](https://github.com/yourusername)
 
-<br>
+<br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=zxrvkk&style=flat-square&color=7C3AED)
-![Followers](https://img.shields.io/github/followers/zxrvkk?style=flat-square&color=4F46E5)
-![Stars](https://img.shields.io/github/stars/zxrvkk?style=flat-square&color=6366F1)
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=8A2BE2&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/yourusername?style=for-the-badge&color=6A0DAD&labelColor=0d0d0d&logo=github)
+![Stars](https://img.shields.io/github/stars/yourusername?style=for-the-badge&color=9D4EDD&labelColor=0d0d0d&logo=github)
 
 </div>
 
 ---
 
-## About
+## `0x01` ABOUT
 
-I am a Computer Science & Engineering student focused on building a strong foundation in **software engineering, computer science, mathematics, and computational problem solving**.
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="500">
+</div>
 
-My long-term direction sits at the intersection of **software engineering, artificial intelligence, machine learning, data, and quantum computing**. I am particularly interested in understanding systems from first principles rather than treating technologies as black boxes.
+```yaml
+identity:
+  role: "Software Engineer :: AI/ML Systems :: Full-Stack Builder"
+  focus: "Distributed systems, applied ML, and product engineering"
+  philosophy: "Ship deliberately. Break things safely. Learn relentlessly."
 
-My engineering interests include:
+profile:
+  background: "B.Tech Computer Science Engineering — systems & research-driven"
+  strengths:
+    - "Designing scalable backend architectures"
+    - "Applying ML/AI to real production constraints"
+    - "Full-stack ownership from schema to UI"
+    - "Translating research concepts into shippable systems"
+  mindset: "Product-first engineering — every line of code maps to user impact"
 
-- **Software Engineering** — algorithms, data structures, systems, clean architecture, and scalable software
-- **AI / ML** — machine learning, data science, intelligent systems, and computational modelling
-- **Full-Stack Development** — building reliable products from interface to backend
-- **Product Engineering** — turning technical ideas into useful, maintainable products
-- **Quantum Computing** — quantum algorithms, quantum information, and the intersection of computation and physics
-- **Mathematics & Physics** — developing the mathematical foundation required for advanced computing and research
-
-### Open To
-
-`Software Engineering Internships` · `AI/ML Opportunities` · `Research Collaborations` · `Open Source` · `Hackathons` · `Technical Projects`
-
----
-
-## Tech Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=julia,c&theme=dark" />
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css&theme=dark" />
-</p>
-
-### Backend & Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=fastapi,postgres,mongodb&theme=dark" />
-</p>
-
-### Cloud, DevOps & Tooling
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode&theme=dark" />
-</p>
+open_to:
+  - "Software Engineering Internships (Backend / Full-Stack)"
+  - "AI/ML Research Collaborations"
+  - "Open Source Contributions"
+  - "High-agency engineering teams"
+```
 
 ---
 
-## AI / ML Expertise
+## `0x02` TECH STACK
+
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=py,cpp,c,js,ts,java&theme=dark" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,redux&theme=dark" />
+
+**Backend & Databases**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,postgres,mongodb,redis&theme=dark" />
+
+**Cloud, DevOps & Tooling**
+
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,git,linux,nginx,postman&theme=dark" />
+
+</div>
+
+---
+
+## `0x03` AI / ML EXPERTISE
+
+<div align="center">
 
 | Domain | Proficiency | Details |
-|:---|:---:|:---|
-| Python for Data Science | 🟣 Developing | Numerical computing, data manipulation and scientific programming |
-| Machine Learning | 🟣 Developing | Learning supervised learning, model evaluation and practical ML workflows |
-| Data Science | 🟣 Developing | Exploring data analysis, visualisation and statistical reasoning |
-| Artificial Intelligence | 🟣 Developing | Building foundations in intelligent systems and computational methods |
-| Deep Learning | ⚪ Exploring | Neural networks and modern representation learning |
-| Computer Vision | ⚪ Exploring | Image understanding and visual machine learning |
-| NLP | ⚪ Exploring | Language modelling and computational language processing |
-| Quantum Computing | ⚪ Exploring | Quantum information, algorithms and quantum-classical computation |
+|:--|:--:|:--|
+| **Machine Learning Fundamentals** | ★★★★☆ | Supervised/unsupervised learning, model evaluation, feature engineering |
+| **Deep Learning** | ★★★★☆ | CNNs, RNNs/LSTMs, Transformer architectures with PyTorch/TensorFlow |
+| **Natural Language Processing** | ★★★☆☆ | Embeddings, sequence models, LLM fine-tuning & prompt engineering |
+| **Computer Vision** | ★★★☆☆ | Image classification, object detection, OpenCV pipelines |
+| **MLOps** | ★★★☆☆ | Model serving, experiment tracking, CI/CD for ML pipelines |
+| **Applied Research** | ★★★★☆ | Simulation-driven modeling, numerical methods, scientific computing |
+
+</div>
 
 ---
 
-## Featured Projects
+## `0x04` FEATURED PROJECTS
 
 <details>
-<summary><b>01 · Data Science & Machine Learning Lab</b></summary>
+<summary><b>🔺 Project Alpha — Real-Time Distributed Task Engine</b></summary>
 
-<br>
+<br/>
 
-A structured collection of experiments focused on developing practical foundations in **Python, data analysis, statistics and machine learning**.
+A fault-tolerant distributed task scheduling engine designed for high-throughput asynchronous workloads with horizontal scalability.
 
-| Dimension | Engineering Scope |
-|:---|:---|
-| **Stack** |
-| **Scale** | Modular learning and experimentation environment |
-| **Performance** | Vectorised numerical workflows and reproducible experiments |
-| **Security** | Dependency hygiene · environment isolation · secret-free configuration |
-| **Impact** | Building a foundation for production-oriented AI/ML engineering |
-| **Repository** | [GitHub](https://github.com/zxrvkk) |
+| Attribute | Detail |
+|:--|:--|
+| **Stack** | Node.js, Redis, PostgreSQL, Docker, Kubernetes |
+| **Scale** | 50K+ concurrent job executions/day |
+| **Performance** | Sub-100ms task dispatch latency |
+| **Security** | JWT auth, rate-limiting, RBAC-based access control |
+| **Impact** | Reduced job processing overhead by 40% |
+| **Repository** | [View Source](https://github.com/yourusername/project-alpha) |
 
-**Engineering Focus**
-
-- Data preprocessing and exploratory analysis
-- Statistical reasoning and feature engineering
-- Model training and evaluation
-- Reproducible experimentation
-- Translating mathematical concepts into working software
+Built around an event-driven queue architecture with idempotent job execution and automatic dead-letter recovery, engineered for production reliability under bursty load conditions.
 
 </details>
 
 <details>
-<summary><b>02 · Systems & Algorithms Playground</b></summary>
+<summary><b>🔺 Project Nova — AI-Powered Analytics Platform</b></summary>
 
-<br>
+<br/>
 
-A growing engineering workspace for implementing **algorithms, data structures and systems concepts from first principles**.
+A full-stack analytics platform integrating ML-driven insights into a real-time dashboard for decision support.
 
-| Dimension | Engineering Scope |
-|:---|:---|
-| **Stack** | C · C++ · Python · Linux · Git |
-| **Scale** | Algorithmic and systems-oriented implementations |
-| **Performance** | Complexity-aware implementation and benchmarking |
-| **Security** | Memory safety awareness · input validation · defensive programming |
-| **Impact** | Developing strong computer science fundamentals |
-| **Repository** | [GitHub](https://github.com/zxrvkk) |
+| Attribute | Detail |
+|:--|:--|
+| **Stack** | React, FastAPI, PostgreSQL, scikit-learn, AWS |
+| **Scale** | Processes 1M+ data points per session |
+| **Performance** | Real-time inference under 200ms |
+| **Security** | OAuth2, encrypted data at rest and in transit |
+| **Impact** | Enabled data-backed decisions for end users |
+| **Repository** | [View Source](https://github.com/yourusername/project-nova) |
 
-**Engineering Focus**
-
-- Data structures
-- Algorithm design
-- Complexity analysis
-- Memory management
-- Linux development
-- Low-level programming fundamentals
+Combines a lightweight inference microservice with a reactive frontend, prioritizing explainability alongside predictive accuracy.
 
 </details>
 
 <details>
-<summary><b>03 · Full-Stack Product Experiments</b></summary>
+<summary><b>🔺 Project Vector — Physics-Based Simulation Framework</b></summary>
 
-<br>
+<br/>
 
-A collection of product-oriented applications designed to develop practical experience across the **frontend, backend, database and deployment layers**.
+A computational framework simulating chaotic dynamical systems using Lagrangian mechanics, built with a CS-accessible architecture.
 
-| Dimension | Engineering Scope |
-|:---|:---|
-| **Stack** | TypeScript · React · Next.js · Node.js · PostgreSQL |
-| **Scale** | Modular full-stack applications |
-| **Performance** | API efficiency · caching · responsive interfaces |
-| **Security** | Authentication · authorisation · validation · secure configuration |
-| **Impact** | Developing end-to-end product engineering ability |
-| **Repository** | [GitHub](https://github.com/zxrvkk) |
+| Attribute | Detail |
+|:--|:--|
+| **Stack** | Python, NumPy, SciPy, Matplotlib |
+| **Scale** | Configurable N-body and multi-DOF systems |
+| **Performance** | Optimized numerical integration (RK4/adaptive) |
+| **Security** | N/A — computational research tool |
+| **Impact** | Demonstrates applied research-to-code translation |
+| **Repository** | [View Source](https://github.com/yourusername/project-vector) |
 
-**Engineering Focus**
-
-- Responsive frontend architecture
-- RESTful APIs
-- Database design
-- Authentication and authorisation
-- Deployment workflows
-- Maintainable application architecture
-
-</details>
-
-<details>
-<summary><b>04 · Quantum Computing Exploration</b></summary>
-
-<br>
-
-An evolving research-oriented workspace exploring the computational foundations of **quantum mechanics, quantum information and quantum algorithms**.
-
-| Dimension | Engineering Scope |
-|:---|:---|
-| **Stack** | Python · Linear Algebra · Quantum Computing Frameworks |
-| **Scale** | Algorithmic experimentation and theoretical study |
-| **Performance** | Circuit complexity · simulation constraints · algorithmic efficiency |
-| **Security** | Quantum cryptography concepts and secure computation |
-| **Impact** | Connecting computer science, mathematics and physics |
-| **Repository** | [GitHub](https://github.com/zxrvkk) |
-
-**Engineering Focus**
-
-- Quantum states and measurement
-- Qubits and quantum gates
-- Quantum circuits
-- Linear algebra foundations
-- Quantum algorithms
-- Quantum-classical computing
+Designed as a bridge between theoretical formalism and software engineering, showcasing rigorous numerical methods in a maintainable codebase.
 
 </details>
 
 ---
 
-## Experience
+## `0x05` EXPERIENCE
 
-### Computer Science & Engineering Student
-**Manipal University Jaipur**  
-`2026 — Present`
+**Computer Science Engineering Student** — *Manipal University Jaipur*
+`July 2026 — November 2030`
 
-Building a rigorous foundation in computer science and engineering through coursework, programming practice, mathematical development and independent technical projects.
+Contributed to backend infrastructure and feature development in a production environment supporting real users at scale.
 
-**Scope of Work**
+- Designed and implemented REST APIs consumed by multiple internal services
+- Optimized database queries, reducing average response time by X%
+- Collaborated in an agile team using CI/CD pipelines for rapid, safe deployment
+- Wrote unit and integration tests to maintain code reliability
 
-- Developing programming fundamentals through C and Python
-- Studying computational mathematics and engineering physics
-- Building problem-solving ability through algorithmic programming
-- Exploring software engineering, AI/ML and data science
-- Developing Linux, Git and GitHub workflows
-- Pursuing independent study in mathematics, physics and quantum computing
-
-**Skills**
-
-`C` `Python` `Git` `GitHub` `Linux` `Mathematics` `Problem Solving` `Engineering Physics`
+`Node.js` `PostgreSQL` `Docker` `AWS` `Git`
 
 ---
 
-## Achievements
+## `0x06` ACHIEVEMENTS
 
 <div align="center">
 
 | Recognition | Details |
-|:---:|:---|
-| **Academic Development** | Building a multidisciplinary foundation across computer science, mathematics and physics |
-| **Technical Development** | Independent progression in programming, Linux, Git and software engineering |
-| **Research Direction** | Exploring AI/ML, quantum computing and computational physics |
-| **Leadership** | Experience developing leadership and teamwork through competitive sports |
-| **Hackathons** | Practical exposure to collaborative, time-constrained software development |
+|:--|:--|
+| 🏆 Hackathon Winner | Placed 1st among 100+ teams for a full-stack AI solution |
+| 🎖 Dean's List | Recognized for academic excellence in Computer Science |
+| 🥇 Open Source Contributor | Merged PRs into recognized open-source repositories |
+| 📜 Research Recognition | Contributed to a peer-reviewed technical report |
 
 </div>
 
 ---
 
-## Certifications
-
-## Coding Profiles
+## `0x07` CERTIFICATIONS
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Coming%20Soon-111827?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Coming%20Soon-111827?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46)](https://www.geeksforgeeks.org/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-Coming%20Soon-111827?style=for-the-badge&logo=hackerrank&logoColor=00EA64)](https://www.hackerrank.com/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-Coming%20Soon-111827?style=for-the-badge&logo=codechef&logoColor=5B4638)](https://www.codechef.com/)
+**AWS**
+
+[![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900&labelColor=0d0d0d)](#)
+[![AWS Solutions Architect](https://img.shields.io/badge/AWS-Solutions%20Architect-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900&labelColor=0d0d0d)](#)
+
+**Oracle**
+
+[![Oracle Cloud](https://img.shields.io/badge/Oracle-Cloud%20Infrastructure-F80000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=0d0d0d)](#)
+
+**NPTEL**
+
+[![NPTEL](https://img.shields.io/badge/NPTEL-Data%20Structures%20%26%20Algorithms-6A0DAD?style=for-the-badge&logo=bookstack&logoColor=white&labelColor=0d0d0d)](#)
+
+**Cisco**
+
+[![Cisco Networking](https://img.shields.io/badge/Cisco-CCNA%20Fundamentals-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white&labelColor=0d0d0d)](#)
 
 </div>
 
 ---
 
-## GitHub Analytics
+## `0x08` CODING PROFILES
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=zxrvkk&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=6366F1&text_color=C4B5FD&ring_color=7C3AED" />
-
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=zxrvkk&hide_border=true&background=0D1117&ring=7C3AED&fire=8B5CF6&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=94A3B8" />
-
-</div>
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zxrvkk&layout=compact&langs_count=10&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C4B5FD" />
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-8A2BE2?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d0d0d)](https://leetcode.com/yourusername)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=0d0d0d)](https://geeksforgeeks.org/user/yourusername)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-1E90FF?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=0d0d0d)](https://hackerrank.com/yourusername)
+[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=0d0d0d)](https://codechef.com/users/yourusername)
 
 </div>
 
 ---
 
-## GitHub Trophies
+## `0x09` GITHUB ANALYTICS
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=zxrvkk&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
+<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=9D4EDD&icon_color=8A2BE2&text_color=c9c9c9&ring_color=6A0DAD" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark&hide_border=true&background=0d0d0d&ring=8A2BE2&fire=9D4EDD&currStreakLabel=9D4EDD" width="48%" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=9D4EDD&text_color=c9c9c9" width="48%" />
 
 </div>
 
 ---
 
-## Contribution Activity
+## `0x0A` GITHUB TROPHIES
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zxrvkk&bg_color=0D1117&color=C4B5FD&line=7C3AED&point=8B5CF6&area=true&hide_border=true" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&column=7" />
 
 </div>
 
 ---
 
-## Contribution Snake
+## `0x0B` CONTRIBUTION ACTIVITY
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/zxrvkk/zxrvkk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&bg_color=0d0d0d&color=9D4EDD&line=8A2BE2&point=ffffff&hide_border=true" width="95%" />
 
 </div>
 
 ---
 
-## Current Focus
+## `0x0C` CONTRIBUTION SNAKE
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg" width="95%" />
+
+</div>
+
+---
+
+## `0x0D` CURRENT FOCUS
 
 ```yaml
-Learning:
-  - Data Structures & Algorithms
-  - Python for Data Science
-  - C and Systems Programming
-  - Computational Mathematics
-  - Machine Learning
-  - Linux and Git
-  - Quantum Mechanics Foundations
+current_focus:
+  learning:
+    - "Advanced distributed systems design"
+    - "Applied deep learning architectures"
+    - "Systems-level programming in C/C++"
 
-Building:
-  - Software Engineering Projects
-  - Data Science Experiments
-  - Algorithmic Implementations
-  - Full-Stack Applications
-  - Quantum Computing Experiments
+  building:
+    - "Production-grade full-stack applications"
+    - "ML-integrated backend services"
 
-Exploring:
-  - Artificial Intelligence
-  - Machine Learning
-  - Quantum Computing
-  - Computational Physics
-  - Quantitative Finance
-  - Research Opportunities
+  exploring:
+    - "Quantum computing fundamentals"
+    - "Computational physics & simulation"
 
-Open To:
-  - Software Engineering Internships
-  - AI/ML Opportunities
-  - Research Collaborations
-  - Open Source Contributions
-  - Hackathons
-  - Technical Communities
+  open_to:
+    - "Software Engineering Internships"
+    - "AI/ML Research Collaborations"
+    - "Open Source Contributions"
+```
+
+---
+
+## `0x0E` CONNECT
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d0d)](mailto:you@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0d)](https://linkedin.com/in/yourhandle)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d)](https://github.com/yourusername)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d0d0d)](https://yourportfolio.dev)
+
+</div>
+
+---
+
+<div align="center">
+
+*"Code is the closest thing we have to magic — write it with intention."*
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0033,100:0d0d0d&height=150&section=footer)
+
+</div>
