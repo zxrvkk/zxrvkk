@@ -277,7 +277,7 @@ Building a rigorous foundation in computer science and engineering through cours
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&bg_color=0d0d0d&color=9D4EDD&line=8A2BE2&point=ffffff&hide_border=true" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zxrvkk&theme=react-dark&bg_color=0d0d0d&color=9D4EDD&line=8A2BE2&point=ffffff&hide_border=true" width="95%" />
 
 </div>
 
@@ -287,7 +287,7 @@ Building a rigorous foundation in computer science and engineering through cours
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg" width="95%" />
+<img src="https://raw.githubusercontent.com/zxrvkk/zxrvkk/output/github-contribution-grid-snake-dark.svg" width="95%" />
 
 </div>
 
