@@ -56,25 +56,25 @@ My engineering interests include:
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript,typescript&theme=dark" />
+<img src="https://skillicons.dev/icons?i=julia,c&theme=dark" />
 </p>
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css&theme=dark" />
 </p>
 
 ### Backend & Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,postgres,mongodb,redis&theme=dark" />
+<img src="https://skillicons.dev/icons?i=fastapi,postgres,mongodb&theme=dark" />
 </p>
 
 ### Cloud, DevOps & Tooling
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,linux,bash,docker,aws,vercel,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode&theme=dark" />
 </p>
 
 ---
@@ -105,7 +105,7 @@ A structured collection of experiments focused on developing practical foundatio
 
 | Dimension | Engineering Scope |
 |:---|:---|
-| **Stack** | Python · NumPy · Pandas · Matplotlib · Scikit-learn |
+| **Stack** |
 | **Scale** | Modular learning and experimentation environment |
 | **Performance** | Vectorised numerical workflows and reproducible experiments |
 | **Security** | Dependency hygiene · environment isolation · secret-free configuration |
